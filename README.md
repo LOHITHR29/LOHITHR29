@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm LOHITH REGALLA</h1>
-<h3 align="center">Committing sins and pushing to repos</h3>
+<h3 align="center">Committing sins and pushing to repos 😂😂</h3>
+
+- 🔭 I’m currently working on **ENTERTAINMENT APPLICATION**
 
 - 🌱 I’m currently learning **REACT, NODE JS**
 
 - 📫 How to reach me **lohithregalla123@gmail.com**
 
-- ⚡ Fun fact **I speak three languages fluently: JavaScript, C++, and Emoji. My code is multilingual and expressive!**
+- ⚡ Fun fact **I speak three languages fluently: JavaScript, C++, and Emoji. My code is multilingual and expressive! 💻🐍🚀 #PolyglotDeveloper.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
