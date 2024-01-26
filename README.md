@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LOHITH REGALLA</h1>
-<h3 align="center"Committing sins and pushing to repos</h3>
+<h3 align="center">Committing sins and pushing to repos</h3>
 
 - 🌱 I’m currently learning **REACT, NODE JS**
 
