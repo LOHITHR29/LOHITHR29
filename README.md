@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I speak three languages fluently: JavaScript, C++, and Emoji. My code is multilingual and expressive! 💻🐍🚀 #PolyglotDeveloper.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
