@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm LOHITH REGALLA</h1>
 <h3 align="center">Committing sins and pushing to repos 😂😂</h3>
-img align="right" alt="Coding" width="400" src="<h1 align="center">Hi 👋, I'm LOHITH REGALLA</h1>
-<h3 align="center">Committing sins and pushing to repos 😂😂</h3>
 <img align="right" alt="Coding" width="400" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif">
 
 - 🔭 I’m currently working on **ENTERTAINMENT APPLICATION**
